@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leonardo Mendes ✌
 
-Estudante de engenharia da computação no Inatel e atualmente estou cursando o 8º período.
+Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 8º período.
 
 <div align="center">
   <a href="https://github.com/leomendesjr">
