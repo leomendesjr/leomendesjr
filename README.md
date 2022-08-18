@@ -1,6 +1,17 @@
 ### Olá, eu sou o Leonardo Mendes ✌
+##
 
-Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 8º período.
+Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 8º período
+
+##
+
+Sobre mim:
+</div>
+  <a href="https://www.linkedin.com/in/leomendesjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+##
 
 <div align="center">
   <a href="https://github.com/leomendesjr">
@@ -25,6 +36,5 @@ Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 
   <a href="https://instagram.com/leomendesjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leosrs1@icloud.com"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
   <a href = "https://wa.me/035999662127"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leomendesjunior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
