@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Mendes ✌
 ##
 
-Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 8º período
+Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 9º período.
 
 ##
 
