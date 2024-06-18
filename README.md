@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Mendes ✌
 ##
 
-Estudante de Engenharia da Computação no Inatel e atualmente estou cursando o 9º período.
+Engenheiro de Computação formado pelo Inatel.
 
 ##
 
